@@ -1,1 +1,0 @@
-print("Inflation Tracker initialized.")
