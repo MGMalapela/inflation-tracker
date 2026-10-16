@@ -1,0 +1,1 @@
+print("Inflation Tracker initialized.")

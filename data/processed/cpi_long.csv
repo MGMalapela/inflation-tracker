@@ -1,0 +1,9 @@
+period_text,province_code,category_code,index_value,base_period,source_file
+2024-01,GP,1,100.0,Dec 2021=100,cpi_wide.csv
+2024-01,WC,1,101.0,Dec 2021=100,cpi_wide.csv
+2024-01,GP,7,99.0,Dec 2021=100,cpi_wide.csv
+2024-02,GP,1,101.5,Dec 2021=100,cpi_wide.csv
+2024-02,WC,1,102.0,Dec 2021=100,cpi_wide.csv
+2024-02,GP,7,100.2,Dec 2021=100,cpi_wide.csv
+2024-03,GP,1,103.0,Dec 2021=100,cpi_wide.csv
+2024-03,WC,1,102.8,Dec 2021=100,cpi_wide.csv
